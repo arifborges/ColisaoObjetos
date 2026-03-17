@@ -1,0 +1,6 @@
+{
+  "python.analysis.extraPaths": [
+    "./ComputacaoGrafica/teste-",
+    "./ComputacaoGrafica/teste-"
+  ]
+}
